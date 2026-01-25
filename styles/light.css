@@ -38,9 +38,11 @@
     --header-logo-color: #ffc2e6;
     --footer-logo-color: #ffc2e6;
   }
+
+  .header__rec {
+  display: none;
+  }
+
 }
 
-.header__rec {
-  display: none;
-}
 

@@ -3,10 +3,10 @@
   и их переопределение под различные устройства
 */
 :root {
-  --main-font-family: 'IBM Plex mono', monospace;
+  --main-font-family: "IBM Plex mono", monospace;
   --accent-color: #ff0070;
   --main-bg-color: #000028;
-  --bg-image: url('../images/cover-image-dark.png');
+  --bg-image: url("../images/cover-image-dark.png");
   --main-text-color: #f1b2ce;
   --nav-color: #ff0070;
   --nav-hover-color: rgb(255 0 112 / 0.4);
